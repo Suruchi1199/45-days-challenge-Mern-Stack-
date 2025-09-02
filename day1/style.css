@@ -53,6 +53,7 @@ body {
   font-size: 28px;
   background: linear-gradient(135deg, #ff4b2b, #ff6a00, #ff416c);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .card-content h2 {
